@@ -2,6 +2,6 @@
 
 Just Tic Tac Toe
 
-![img/TTT1](TTT1.png)
+![TTT1](img/TTT1.png)
 
-![img/TTT2](TTT2.png)
+![TTT2](img/TTT2.png)
