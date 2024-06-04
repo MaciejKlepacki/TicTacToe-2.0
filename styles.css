@@ -6,7 +6,7 @@ body {
     background-color: #f0f0f0;
     font-family: Arial, sans-serif;
     background: rgb(2,0,36);
-    background: linear-gradient(45deg, rgba(2,0,36,1) 0%, rgb(9, 15, 87) 100%);
+    background: linear-gradient(45deg, rgba(2,0,36,1) 0%, rgb(63, 4, 4) 100%);
 }
 
 .container {
